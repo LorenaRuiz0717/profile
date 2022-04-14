@@ -279,7 +279,7 @@ params:
  
       - title: Card Validation
         content: Interface in online shop context, validation for credit card number, implemented in vanilla JavaScript.
-        image: /images/projects/cardValidation.png
+        image: /docs/images/projects/cardValidation.png
         # featured:
         #   name: Code
         #   link: https://github.com/LorenaRuiz0717/BOG002-card-validation
