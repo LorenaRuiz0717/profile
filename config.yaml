@@ -94,10 +94,10 @@ params:
     content: "I am a woman with great initiative, I like to learn constantly, that's why I am an entrepreneur, I want to help companies continue to grow and learn in the process."
 
     image: images/lorePhoto1.jpg
-    button:
-      enable: false
-      name: "Resume"
-      url: "#"
+    # button:
+    #   enable: true
+    #   name: "Resume"
+    #   url: "#"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
