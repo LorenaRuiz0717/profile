@@ -117,7 +117,7 @@ params:
       Front-End Developer, with knowledge in hotel management, my experience has allowed me to have a focus on the user, discover and solve their needs. Here are some of the technologies I have worked with 
     skills:
       enable: true
-      title: "Aquí hay algunas tecnologías con las que he estado trabajando recientemente:"
+      title: "Here are a few technologies I've been working with recently:"
       items:
         - "HTML"
         - "CSS"
@@ -141,7 +141,7 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |
-         I am currently working as  Junior Front end developer at Jamgo Tech in Amsterdam, Holanda. I am learn about JamStack and how use this tecnology for create page of easy maintainability and update of content.
+         I am currently working as  Junior Front end developer at Jamgo Tech in Amsterdam, Holanda. I am learning about JamStack and how use this tecnology for create page of easy maintainability and update of content.
 
       - job: "Owner Entrepreneurship "
         company: "Happy Pets Art"
