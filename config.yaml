@@ -1,6 +1,6 @@
 baseURL: "https://lorenaruiz0717.github.io/profile/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Lorena Ruiz-Desarrolladora Fron-end"
 theme: hugo-profile
 
 Paginate: 6
@@ -39,8 +39,8 @@ markup:
     #   weight: 2
 
 params:
-  title: "My profile"
-  description: Get to know a bit of my story
+  title: "Mi perfil"
+  description: Conoce un poco de mi historia
   # staticPath: ""  # The path to serve the static files from
   favicon: "images/LogoLaB.png"
 
@@ -88,10 +88,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi,welcome"
-    title: " I'm Lorena"
-    subtitle: "Front-end developer"
-    content: "I am a woman with great initiative, I like to learn constantly, that's why I am an entrepreneur, I want to help companies continue to grow and learn in the process."
+    intro: "Hola,bienvenido"
+    title: " Soy Lorena"
+    subtitle: "Junior Front-end"
+    content: "Soy una mujer con gran iniciativa, me gusta estar en constante aprendizaje, por eso soy emprendedora, quiero ayudar a las empresas a seguir creciendo y aprender en el proceso."
 
     image: images/lorePhoto1.jpg
     # button:
@@ -111,13 +111,13 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "Sobre mi"
     image: "images/Lore1.jpg"
     content: |-
-      Front-End Developer, with knowledge in hotel management, my experience has allowed me to have a focus on the user, discover and solve their needs.
+     Desarrolladora Front-End, con conocimientos en administración Gastronómica y  hotelera, mi experiencia me ha permitido tener un enfoque en el usuario, descubrir y resolver sus necesidades.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Estas son algunas de las tecnologías con las que he trabajado recientemente:"
       items:
         - "HTML"
         - "CSS"
@@ -135,15 +135,15 @@ params:
       - job: "Junior Front end developer"
         company: "Jamgo Tech"
         companyUrl: "https://example.com"
-        date: "Oct 2021 - Current"
+        date: "Octubre 2021 - Abril 2022"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         content: |
-         I am currently working as  Junior Front end developer at Jamgo Tech in Amsterdam, Holanda. I am learning about JamStack and how use this tecnology for create page of easy maintainability and update of content.
+         Jamgo Tech es un startup ubicado en Amsterdam, Holanda. Tuve la oportunidad de aprender  sobre desarrollo  JamStack y cómo utilizar esta tecnología para crear páginas de fácil mantenimiento y actualización de contenidos. 
 
-      - job: "Owner Entrepreneurship "
+      - job: "Emprendimiento personal"
         company: "Happy Pets Art"
         companyUrl: "https://www.facebook.com/Happypetsart"
         date: "Jul 2015 - Current"
@@ -151,34 +151,32 @@ params:
           enable: false
           url: "https://example.com"
         info:
-          enable: true
+          enable: false
           content: Owner Entrepreneurship, accessories and furniture for pets 
         content: |
-         Family business, dedicated to the design and handmade of personalized products for pets, focused on comfort and durability.
-         This experience has allowed me to develop different skills such as market research and market opening, creation, design, negotiation with direct customers always satisfying, meeting and exceeding their expectations.
-
-      - job: "Service and Kitchen Manager"
+          Emprendimiento familiar, dedicado al diseño y elaboración manual de productos personalizados para mascotas, enfocados en el confort y la durabilidad.Esta experiencia me ha permitido desarrollar diferentes habilidades como la investigación y apertura del mercado, creación, diseño, negociación con los clientes directos siempre satisfaciendo, cumpliendo y superando sus expectativas.
+      - job: "Admnistrador de servicio y cocina"
         company: "Grupo 5G-La Jugueteria"
         companyUrl: "http://www.restaurantelajugueteria.com.co/"
-        date: "March 2015 - April 2020 "
+        date: " Marzo 2015 - Abril 2020 "
         featuredLink:
           enable: false
           url: "https://example.com"
         info:
-          enable: true
+          enable: false
           # content: I worked as a software developer for more than one year in Amazon.
         content: |
-         Restaurant La Juguetería, in charge of the operation, I had the opportunity to lead and train large groups developing a skill in personnel management, service standardisation and customer service. I learned the importance and management of budgets always dynamically and proactively optimising processes day by day. In this company I had a personal and professional growth that allowed me to have different positions and experiences, promoted by my learning and leadership skills.
+         Restaurante La Juguetería, estuve a cargo de la operación, tuve la oportunidad de liderar y entrenar grandes grupos desarrollando una habilidad en la gestión de personal, estandarización del servicio y atención al cliente. Aprendí la importancia y manejo de los presupuestos siempre de manera dinámica y proactiva optimizando los procesos día a día. En esta empresa tuve un crecimiento personal y profesional que me permitió tener diferentes posiciones y experiencias, promovidas por mi aprendizaje y capacidad de liderazgo.
 
-      - job: "Customer Service Manager"
+      - job: "Jefe de servicio al cliente"
         company: "Andres Carne de Res"
         companyUrl: "http://www.andrescarnederes.com/"
-        date: "Feb 2014 - Nov 2014"
+        date: "Febrero 2014 - Noviembre 2014"
         featuredLink:
           enable: false
           url: "https://example.com"
         content: |
-         In charge of operational staff in different areas supervising a good operational development, taking care of the corporate image. I had the opportunity to learn to lead groups of different ages and social characteristics, which helped me to create a good working environment and strengthen work teams, which was reflected in optimising the service and rotation of diners, surpassing the goals set.
+         Estuve a cargo del personal en diferentes áreas supervisando un buen desarrollo operativo, cuidando la imagen corporativa. Tuve la oportunidad de aprender a liderar grupos de diferentes edades y características sociales, lo que me ayudó a crear un buen ambiente de trabajo y a fortalecer los equipos de trabajo, lo que se reflejó en la optimización del servicio y la rotación de los comensales, superando las metas establecidas.
 
   # Education
   education:
@@ -192,29 +190,27 @@ params:
         date: "2021"
         # GPA: "3.8 out of 5.0"
         content: |-
-         Unique Bootcamp experience in web development. 
-         Based on autonomous learning, carrying out projects under the Agile-Scrum methodology, with learning objectives that simulate a work environment.
-      - title: "Diploma in Gastronomic Establishment Management"
+         Experiencia única de Bootcamp en desarrollo web.  Basado en el aprendizaje autónomo, realizando proyectos bajo metodología Agile-Scrum, con objetivos de aprendizaje que simulan un entorno de trabajo.
+      - title: "Diplomado en Administración de Establecimientos Gastronomicos"
         school:
-          name: "Escuela de gastronomia Mariano Moreno"
+          name: "Escuela de Gastronomia Mariano Moreno"
           url: "https://ismm.edu.co/"
         date: "2020"
         # GPA: "3.9 out of 5.0"
         content: |-
-         Education focused on the administrative management of gastronomic establishments, with learning achievements such as budget management, inventory costing, recipe standardisation, management and more.
-         It allowed me to understand the importance of high quality and meeting expectations.
+         Educación enfocada en el manejo administrativo de establecimientos Gastronómicos, con logros de aprendizaje tales como manejo de presupuestos, costo de inventarios, estandarización de recetas,gestión y mas.Me permitió entender la importancia de la alta calidad y el cumplir expectativas.
         featuredLink:
           enable: false
           name: "My academic record"
           url: "https://example.com"
-      - title: "Hotel Management Technologist"
+      - title: "Tecnologo en Administración Hotelera"
         school:
           name: "SENA"
           url: "http://senahoteleriaturismoalimentos.blogspot.com/"
         date: "2011"
         # GPA: "4.2 out of 5.0"
         content: |-
-         Educational, theoretical and practical process in the administrative and operational area of gastronomic and tourist establishments. Internship at the Hotel JW Marriot Bogotá, where I had a personal and professional growth in the area of restaurants, I met and learned about service, high level gastronomy and the importance of experiences.
+         Proceso educativo, teórico practico en el área administrativa y operativa de establecimientos gastronómicos y turísticos. Pasantía realizada en el Hotel JW Marriot Bogotá, donde tuve un crecimiento personal y profesional en el área de restaurantes, conocí y aprendí sobre servicio, gastronomía de alto nivel y la importancia de las experiencias.
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -244,7 +240,7 @@ params:
     enable: true
     items:
       - title: Pet Book 
-        content: Social network focused on Pet Lovers. Making use of Firebase, Firestore, based on SPA method. Responsive Design 
+        content: Red social enfocada en Pet Lovers. Haciendo uso de Firebase, Firestore, planteada en metodo SPA. Diseño Responsive
         image: images/projects/PetBook.png
         featured:
           name: Demo
