@@ -89,9 +89,9 @@ params:
   hero:
     enable: true
     intro: "Hola,bienvenido"
-    title: " Soy Lorena"
+    title: "Soy Lorena"
     subtitle: "Junior Front-end"
-    content: "Soy una mujer con gran iniciativa, me gusta estar en constante aprendizaje, por eso soy emprendedora, quiero ayudar a las empresas a seguir creciendo y aprender en el proceso."
+    content: "Soy una mujer con gran iniciativa, estoy en constante aprendizaje. Soy emprendedora, mi meta es contribuir al crecimiento de las empresas, a mi crecimiento profesional y aprender en el proceso."
 
     image: images/lorePhoto1.jpg
     # button:
@@ -114,7 +114,7 @@ params:
     title: "Sobre mi"
     image: "images/Lore1.jpg"
     content: |-
-     Desarrolladora Front-End, con conocimientos en administración Gastronómica y  hotelera, mi experiencia me ha permitido tener un enfoque en el usuario, descubrir y resolver sus necesidades.
+     Desarrolladora Front-End, con conocimientos en Administración Gastronómica y  Hotelera, mi experiencia me ha permitido tener un enfoque en el usuario, descubrir y resolver sus necesidades.
     skills:
       enable: true
       title: "Estas son algunas de las tecnologías con las que he trabajado recientemente:"
@@ -248,23 +248,25 @@ params:
         featured:
           name: Demo
           link: https://gloriacuba.github.io/BOG002-social-network/src/index.html
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
+        badges:
+          - "CSS"
+          - "HTML"
+          - "JavaScript"
+          - "Firebase"
         links:
           - icon: fab fa-github
             url: https://github.com/LorenaRuiz0717/BOG002-social-network
 
       - title:  Data Lovers
-        content: Interfaz que organiza y filtra datos según diferentes características , Diseño Responsive, planteada en vanilla JavaScript.
+        content: Interfaz que organiza y filtra datos formato JSON según diferentes características , Diseño Responsive, planteada en vanilla JavaScript.
         image: images/projects/DataLovers.png
         featured:
           name: Demo
           link: https://paolacm99.github.io/BOG002-data-lovers/
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
+        badges:
+          - "CSS"
+          - "HTML"
+          - "JavaScript"
         links:
           - icon: fab fa-github
             url: https://github.com/LorenaRuiz0717/BOG002-data-lovers
@@ -282,17 +284,17 @@ params:
         featured:
           name: Demo
           link: https://lorenaruiz0717.github.io/Vs0.2-CardValidation-BOG002/src/index.html
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
+        badges:
+          - "CSS"
+          - "HTML"
+          - "JavaScript"
         links:
           - icon: fab fa-github
             url:  https://github.com/LorenaRuiz0717/Vs0.2-CardValidation-BOG002
 
       # - title: Card Validation
       #   content: Interface in online shop context, validation for credit card number, implemented in vanilla JavaScript.
-      #   image: /images/projects/cardValidation.png
+      #   image: images/projects/cardValidation.png
         # featured:
         #   name: Code
         #   link: https://github.com/LorenaRuiz0717/BOG002-card-validation
@@ -308,7 +310,7 @@ params:
   #Contact
   contact:
     enable: true
-    content: My correo siempre esta abierto, para una pregunta o un saludo .Gracias por visitar mi perfil   
+    content: Mi correo siempre esta abierto para una pregunta o un saludo. Gracias por visitar mi perfil   
     email: lorena0717@hotmail.com
     btnName: E-mail
 
